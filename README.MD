@@ -20,7 +20,7 @@ BFX Lending Bot 是一款針對 Bitfinex 放貸市場設計的自動化工具，
 
 ## 截圖
 
-> *(截圖製作中，待補充)*
+![BFX Lending Bot](assets/img1.png)
 
 ---
 
