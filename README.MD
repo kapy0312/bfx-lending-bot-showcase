@@ -196,7 +196,7 @@ git tag v4.x.x → push → GitHub Actions 觸發
 
 ## 商業資訊
 
-- 透過 [Whop](https://whop.com) 平台銷售，已有付費用戶
+- 已上架 [Whop](https://whop.com) 平台販售
 - 支援 Windows 10/11（x64）和 macOS（arm64 / x64）
 - 原始碼為私人 repository，不對外開放
 
